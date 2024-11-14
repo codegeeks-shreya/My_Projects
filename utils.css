@@ -1,0 +1,25 @@
+.text-center{
+    text-align:center;
+}
+.bg-color{
+    background: rgb(105, 150, 222);
+}
+.mx-auto{
+    margin:auto;
+}
+.flex{
+    display:flex;
+    
+}
+.flex-col{
+    flex-direction:column;
+}
+.items-center{
+    align-items: center;
+}
+/* .cal{
+    background-color: black;
+    border-radius:15px;
+    max-width:320px;
+    overflow:hidden;
+} */
